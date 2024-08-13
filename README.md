@@ -2,3 +2,6 @@
 Curso de GitHub Alura Latam
 
 Estado del proyecto: En construcción...
+
+Para ejecutar el sistema debes ejecutar
+```press start```
